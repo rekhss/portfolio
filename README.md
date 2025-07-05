@@ -27,12 +27,6 @@ This is my **personal portfolio website**, designed with minimalist dark-mode ae
 
 ---
 
-## 🖼️ Preview
-
-<img src="images/id.jpg" alt="Profile image" width="200"/>
-
----
-
 ## 📁 Folder Structure
 
 ```bash
