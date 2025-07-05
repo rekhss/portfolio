@@ -26,13 +26,3 @@ This is my **personal portfolio website**, designed with minimalist dark-mode ae
 - **JavaScript**
 
 ---
-
-## 📁 Folder Structure
-
-```bash
-portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-    └── id.jpg
